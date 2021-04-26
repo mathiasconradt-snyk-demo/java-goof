@@ -1,2 +1,2 @@
 #!/bin/sh
-docker-compose up --build
+docker start javagoof
